@@ -1,0 +1,39 @@
+.border{
+    border: 2px solid red;
+}
+
+.flex{
+    display: flex;
+}
+
+.reset{
+    padding: 0px;
+    margin: 0px;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+/* Webkit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color:#181818; /* Very dark grey color for the thumb */
+    border-radius: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #121212;
+    /* Black background for the track */
+  }
+  
+  /* Firefox */
+  /* Note: Firefox currently does not support styling of the scrollbar */
+  
+  .glow{
+    background-color: #343434;
+  }
