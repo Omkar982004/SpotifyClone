@@ -1,6 +1,6 @@
 //adding songs from playlist to the library
 async function getSongs(cardindex) {
-    let a = await fetch(`http://127.0.0.1:3000/songs/album${cardindex}/`);
+    let a = await fetch(`http://127.0.0.1:5500/songs/album${cardindex}/`);
     let response = await a.text();
     let div = document.createElement("div");
     div.innerHTML = response;
