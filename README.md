@@ -28,17 +28,17 @@ The project is designed to be fully responsive, providing an optimal experience 
 - **Desktop**: The main navigation bar, playlist cards, and song player controls are all visible on larger screens.
 
 <p align="center">
-  <img src="public/desktop.png" alt="Desktop Preview" width="700"/>
+  <img src="/public/desktop.png" alt="Desktop Preview" width="700"/>
 </p>
 
 - **Mobile**: The layout adapts to smaller screens, with a hide/unhide sidebar and a simplified layout for better usability on mobile devices.
 
 <p align="center">
-  <img src="public/nosidebarmobile.png" alt="Mobile Preview" width="400"/>
+  <img src="/public/nosidebarmobile.png" alt="Mobile Preview" width="400"/>
 </p>
 
 <p align="center">
-  <img src="public/sidebarmobile.png" alt="Mobile Preview" width="400"/>
+  <img src="/public/sidebarmobile.png" alt="Mobile Preview" width="400"/>
 </p>
 
 ---
